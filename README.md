@@ -14,4 +14,4 @@ AI destekli ders çalışma ve odak takip uygulaması.
 - MSSQL
 
 ## Kurulum
-(şimdilik boş bırakabilirsin)
+
